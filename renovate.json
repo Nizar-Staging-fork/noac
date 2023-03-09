@@ -1,6 +1,5 @@
 {
   "extends": [
-    "config:base",
-    "allowedValues": ["npmDedupe"]
+    "config:base"
   ]
 }
